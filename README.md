@@ -1,4 +1,4 @@
-# History of India
+# India (Journey from Past to Present)
 
 ## 1. [Ancient India (c. 3000 BCE - 1200 CE)](#)
 - [**Indus Valley Civilization (c. 3000 BCE - 1500 BCE)**](#)
