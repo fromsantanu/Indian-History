@@ -26,7 +26,7 @@
   - [Indo-Greek, Shaka, and Kushan Invasions: Cultural and economic impacts](#)
   - [Gupta Empire (c. 320 CE - 550 CE): Golden Age of Indian culture, science, and philosophy](#)
 
-- **[Early Medieval India (c. 600 CE - 1200 CE)**](#)
+- [**Early Medieval India (c. 600 CE - 1200 CE)**](#)
   - [Harsha's Empire: Political unification and patronage of culture](#)
   - [South Indian Kingdoms: Cholas, Cheras, Pandyas, and Pallavas](#)
   - [Feudalism in India: Changes in socio-economic structures](#)
