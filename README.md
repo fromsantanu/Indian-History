@@ -77,12 +77,12 @@
   - [Non-Aligned Movement and Cold War diplomacy](#)
   - [Relations with neighboring countries and global powers](#)
 
-- [**Social Movements and Cultural Changes**]
-  - [Social reform movements: Caste-based movements, women's rights, and Dalit empowerment]
-  - [Cultural renaissance and influence of media]
+- [**Social Movements and Cultural Changes**](#)
+  - [Social reform movements: Caste-based movements, women's rights, and Dalit empowerment](#)
+  - [Cultural renaissance and influence of media](#)
 
-- [**Contemporary Issues**]
-  - [Challenges of governance: Corruption, political instability, and regionalism]
-  - [Economic challenges: Poverty, unemployment, and development disparities]
-  - [Modern technology and globalization: IT revolution and digital India]
-  - [Environmental issues and sustainability]
+- [**Contemporary Issues**](#)
+  - [Challenges of governance: Corruption, political instability, and regionalism](#)
+  - [Economic challenges: Poverty, unemployment, and development disparities](#)
+  - [Modern technology and globalization: IT revolution and digital India](#)
+  - [Environmental issues and sustainability](#)
