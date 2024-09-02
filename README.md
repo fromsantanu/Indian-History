@@ -1,4 +1,4 @@
-# India (Journey from Past to Present)
+# India (Journey from Past to Present) ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ## 1. [Ancient India (c. 3000 BCE - 1200 CE)](#)
 - [**Indus Valley Civilization (c. 3000 BCE - 1500 BCE)**](#)
